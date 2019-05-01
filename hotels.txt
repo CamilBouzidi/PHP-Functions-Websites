@@ -1,0 +1,7 @@
+Hotel Omni/Downtown/2323 Sherbrooke St./3/minibar,balcony,pool,water front,garden front,game room/80$ to 100$/
+Hotel McGill/Downtown/1893 Sherbrooke St./2/minibar,pool/50$ to 80$/
+Trudeau Hotel/Near the airport/1211 Dorval Blvd./5/minibar,pool,game room/100$ to 200$/
+Pointe-Claire Motel/Montreal West/1921 Hymus Blvd./7/minibar,water front/less than 50$/
+Hotel Mile/Montreal East/1229 Orwell Blvd./23/water front,garden front/50$ to 80$/
+Hotel New France/Oldport/2232 Jacques Cartier St./4/minibar,pool,game room/80$ to 100$/
+Hotel Westile/Montreal West/2334 Pte-Claire Rd./6/pool,water front,garden front/50$ to 80$/
